@@ -1,0 +1,58 @@
+.jumbotron{
+    background-color: #5c5c5c;
+}
+.col-sm-2{
+    background-color: #5c5c5c;
+}
+.overview{
+    border-style: dashed;
+    color: white;
+}
+
+
+img{
+    width: 50%;
+}
+a{
+    color:white;
+}
+.jumbotron{
+    color:white;
+}
+.home_page1_ing{
+    display: black;
+    margin-left:auto;
+    width: 35%;
+    border:solid;
+}
+.thumbnail{
+    color:black;
+}
+.container-fluid{
+    background-color: #858585;
+}
+h1{
+    color:white;
+}
+th{
+    border: 1px solid black;
+}
+.button1 {background-color: #4CAF50;}
+
+.table {
+  border: 2px solid black;
+  color: white;
+}
+body{
+    background-color: #3d3d3d;
+}
+p,h4,h2{
+    color: white;
+}
+.btn{
+    background-color: black;
+    border: 2px solid white;
+}
+.text-center{
+    font-size: 18px;
+}
